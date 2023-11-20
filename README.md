@@ -3,6 +3,8 @@ Hello I am Julian and you are looking at my profile.<br><br>I have been programm
 <br><br>
 I am also a linux user and dislike windows with a passion.
 
+If you wonder why the stats below are wrong, that is because this is my work github account which currently has little activity and is therefore not reflective of actual statistics my private account can be found ![here](https://github.com/coolian1337)
+
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Revolutionary_Flan71) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Coolian11)
 
